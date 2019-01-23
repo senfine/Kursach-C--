@@ -1,0 +1,21 @@
+﻿  TeachForm.cpp
+  login.cpp
+  Создание кода...
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\mysqlwork.h(46): warning C4715: MySqlWorkNameSpace::MySqlWork::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\adduser.h(244): warning C4715: Project1::adduser::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\deluser.h(150): warning C4715: Project1::deluser::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\addteacher.h(212): warning C4715: Project1::addteacher::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\delteacher.h(166): warning C4715: Project1::delteacher::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\addclass.h(297): warning C4715: Project1::addclass::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\addlesson.h(144): warning C4715: Project1::addlesson::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\timetable.h(359): warning C4715: Project1::Timetable::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\lessonadd.h(191): warning C4715: Project1::lessonadd::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\teachform.h(281): warning C4715: Project1::TeachForm::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\userform.h(329): warning C4715: Project1::UserForm::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\myform.h(183): warning C4715: Project1::MyForm::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\mysqlwork.h(46): warning C4715: MySqlWorkNameSpace::MySqlWork::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\timetable.h(359): warning C4715: Project1::Timetable::ExecuteQuery: значение возвращается не при всех путях выполнения
+d:\учеба\2018-2019 би\5 семестр\project1__kopia\project1\teachform.h(281): warning C4715: Project1::TeachForm::ExecuteQuery: значение возвращается не при всех путях выполнения
+  addclass.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Project1.vcxproj -> D:\учеба\2018-2019 БИ\5 семестр\Project1__kopia\x64\Debug\Project1.exe
+  Project1.vcxproj -> D:\учеба\2018-2019 БИ\5 семестр\Project1__kopia\x64\Debug\Project1.pdb (Partial PDB)

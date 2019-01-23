@@ -1,0 +1,2 @@
+﻿  MyForm.cpp
+c:\users\my\source\repos\project1\project1\myform.cpp(2): fatal error C1083: Не удается открыть файл включение: mysql.h: No such file or directory,
